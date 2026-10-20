@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/klen/muffin-kafka/commit/f5e8bf63a8efd4b95ea4666ea157806291a30cd7",
       "git:hexsha": "f5e8bf63a8efd4b95ea4666ea157806291a30cd7",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "3.1.5"
     },
     {
