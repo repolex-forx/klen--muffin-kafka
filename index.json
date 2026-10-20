@@ -1,0 +1,11 @@
+{
+  "org": "klen",
+  "repo": "muffin-kafka",
+  "versions": [
+    {
+      "commit": "f5e8bf63a8efd4b95ea4666ea157806291a30cd7",
+      "tag": "3.1.5",
+      "parsed_at": "2026-10-20T22:13:36.067958+00:00"
+    }
+  ]
+}
